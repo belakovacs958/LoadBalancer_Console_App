@@ -1,0 +1,15 @@
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/bin/Debug/net6.0/LoadBalancer_Console_App
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/bin/Debug/net6.0/LoadBalancer_Console_App.deps.json
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/bin/Debug/net6.0/LoadBalancer_Console_App.runtimeconfig.json
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/bin/Debug/net6.0/LoadBalancer_Console_App.dll
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/bin/Debug/net6.0/LoadBalancer_Console_App.pdb
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.csproj.AssemblyReference.cache
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.AssemblyInfoInputs.cache
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.AssemblyInfo.cs
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.csproj.CoreCompileInputs.cache
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.dll
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/refint/LoadBalancer_Console_App.dll
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.pdb
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/LoadBalancer_Console_App.genruntimeconfig.cache
+/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/Debug/net6.0/ref/LoadBalancer_Console_App.dll

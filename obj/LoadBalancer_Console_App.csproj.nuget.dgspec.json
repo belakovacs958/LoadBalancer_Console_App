@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/T7 Touch/suli/LoadBalancer_Console_App/LoadBalancer_Console_App.csproj": {}
+  },
+  "projects": {
+    "/Volumes/T7 Touch/suli/LoadBalancer_Console_App/LoadBalancer_Console_App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/T7 Touch/suli/LoadBalancer_Console_App/LoadBalancer_Console_App.csproj",
+        "projectName": "LoadBalancer_Console_App",
+        "projectPath": "/Volumes/T7 Touch/suli/LoadBalancer_Console_App/LoadBalancer_Console_App.csproj",
+        "packagesPath": "/Users/belakovacs/.nuget/packages/",
+        "outputPath": "/Volumes/T7 Touch/suli/LoadBalancer_Console_App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/belakovacs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
