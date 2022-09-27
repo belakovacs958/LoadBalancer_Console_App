@@ -7,7 +7,7 @@ string input = "0";
 while (true) {
     
 
-Console.WriteLine("wrinte in a number");
+Console.WriteLine("write in a number");
 
 input = Console.ReadLine();
 
